@@ -61,11 +61,11 @@ public class StepDefinitions extends AbstractStepDefinition {
     	HomePage HomePage = new HomePage();
     	
     		
-    		//WebDriverWait wait = new WebDriverWait(driver,150);
-    		//wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-men")));
+    		WebDriverWait wait = new WebDriverWait(driver,150);
+    		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-men")));
     		
     		
-    	//	WebElement YourAccountText = driver.findElement(By.xpath("html/body/div[1]/div/div/form/input[4]"));
+    
     		
     		if(HomePage.YourAccountMenu.isDisplayed()){
     					

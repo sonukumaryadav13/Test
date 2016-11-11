@@ -28,7 +28,7 @@ formatter.match({
   "location": "CommonStepDefinitions.user_is_on_Testserver(String)"
 });
 formatter.result({
-  "duration": 17970182992,
+  "duration": 14412040277,
   "status": "passed"
 });
 formatter.scenario({
@@ -114,7 +114,7 @@ formatter.match({
   "location": "CommonStepDefinitions.that_I_am_a(String)"
 });
 formatter.result({
-  "duration": 1656957,
+  "duration": 1190579,
   "status": "passed"
 });
 formatter.match({
@@ -131,21 +131,21 @@ formatter.match({
   "location": "CommonStepDefinitions.login(String,String)"
 });
 formatter.result({
-  "duration": 4207447190,
+  "duration": 3995179390,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.my_account_screen_is_displayed()"
 });
 formatter.result({
-  "duration": 122745342,
+  "duration": 93724790,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.the_page_has_loaded()"
 });
 formatter.result({
-  "duration": 11526851,
+  "duration": 11457469,
   "status": "passed"
 });
 formatter.match({
@@ -158,7 +158,7 @@ formatter.match({
   "location": "StepDefinitions.i_am_shown_the_Your_Account_page(String)"
 });
 formatter.result({
-  "duration": 142049,
+  "duration": 264391,
   "status": "passed"
 });
 formatter.match({
@@ -171,7 +171,7 @@ formatter.match({
   "location": "StepDefinitions.tile_1_is(String)"
 });
 formatter.result({
-  "duration": 31611497,
+  "duration": 34753803,
   "status": "passed"
 });
 formatter.match({
@@ -184,7 +184,7 @@ formatter.match({
   "location": "StepDefinitions.tile_2_is(String)"
 });
 formatter.result({
-  "duration": 26664438,
+  "duration": 26820857,
   "status": "passed"
 });
 formatter.match({
@@ -197,7 +197,7 @@ formatter.match({
   "location": "StepDefinitions.tile_3_is(String)"
 });
 formatter.result({
-  "duration": 27008886,
+  "duration": 32025326,
   "status": "passed"
 });
 formatter.match({
@@ -210,7 +210,7 @@ formatter.match({
   "location": "StepDefinitions.tile_4_is(String)"
 });
 formatter.result({
-  "duration": 24706964,
+  "duration": 36027722,
   "status": "passed"
 });
 formatter.match({
@@ -223,7 +223,7 @@ formatter.match({
   "location": "StepDefinitions.tile_5_is(String)"
 });
 formatter.result({
-  "duration": 27639071,
+  "duration": 27416145,
   "status": "passed"
 });
 formatter.match({
@@ -236,7 +236,7 @@ formatter.match({
   "location": "StepDefinitions.tile_6_is(String)"
 });
 formatter.result({
-  "duration": 24133844,
+  "duration": 53226241,
   "status": "passed"
 });
 formatter.match({
@@ -249,14 +249,14 @@ formatter.match({
   "location": "StepDefinitions.tile_7_is(String)"
 });
 formatter.result({
-  "duration": 22267510,
+  "duration": 34644188,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.close_the_browser()"
 });
 formatter.result({
-  "duration": 1963462792,
+  "duration": 1349753735,
   "status": "passed"
 });
 formatter.background({
@@ -281,7 +281,7 @@ formatter.match({
   "location": "CommonStepDefinitions.user_is_on_Testserver(String)"
 });
 formatter.result({
-  "duration": 11118736788,
+  "duration": 11558251919,
   "status": "passed"
 });
 formatter.scenario({
@@ -367,7 +367,7 @@ formatter.match({
   "location": "CommonStepDefinitions.that_I_am_a(String)"
 });
 formatter.result({
-  "duration": 122753,
+  "duration": 89088,
   "status": "passed"
 });
 formatter.match({
@@ -384,21 +384,21 @@ formatter.match({
   "location": "CommonStepDefinitions.login(String,String)"
 });
 formatter.result({
-  "duration": 5178026357,
+  "duration": 4471098710,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.my_account_screen_is_displayed()"
 });
 formatter.result({
-  "duration": 56000289,
+  "duration": 101149073,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.the_page_has_loaded()"
 });
 formatter.result({
-  "duration": 11060472,
+  "duration": 17877560,
   "status": "passed"
 });
 formatter.match({
@@ -411,7 +411,7 @@ formatter.match({
   "location": "StepDefinitions.i_am_shown_the_Your_Account_page(String)"
 });
 formatter.result({
-  "duration": 97299,
+  "duration": 104689,
   "status": "passed"
 });
 formatter.match({
@@ -424,7 +424,7 @@ formatter.match({
   "location": "StepDefinitions.tile_1_is(String)"
 });
 formatter.result({
-  "duration": 29345704,
+  "duration": 36045375,
   "status": "passed"
 });
 formatter.match({
@@ -437,7 +437,7 @@ formatter.match({
   "location": "StepDefinitions.tile_2_is(String)"
 });
 formatter.result({
-  "duration": 26724378,
+  "duration": 32250715,
   "status": "passed"
 });
 formatter.match({
@@ -450,7 +450,7 @@ formatter.match({
   "location": "StepDefinitions.tile_3_is(String)"
 });
 formatter.result({
-  "duration": 40407819,
+  "duration": 34965644,
   "status": "passed"
 });
 formatter.match({
@@ -463,7 +463,7 @@ formatter.match({
   "location": "StepDefinitions.tile_4_is(String)"
 });
 formatter.result({
-  "duration": 25841708,
+  "duration": 31669384,
   "status": "passed"
 });
 formatter.match({
@@ -476,7 +476,7 @@ formatter.match({
   "location": "StepDefinitions.tile_5_is(String)"
 });
 formatter.result({
-  "duration": 25299789,
+  "duration": 29634727,
   "status": "passed"
 });
 formatter.match({
@@ -489,7 +489,7 @@ formatter.match({
   "location": "StepDefinitions.tile_6_is(String)"
 });
 formatter.result({
-  "duration": 23844821,
+  "duration": 30894687,
   "status": "passed"
 });
 formatter.match({
@@ -502,14 +502,14 @@ formatter.match({
   "location": "StepDefinitions.tile_7_is(String)"
 });
 formatter.result({
-  "duration": 30537513,
+  "duration": 29844515,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.close_the_browser()"
 });
 formatter.result({
-  "duration": 612438423,
+  "duration": 529577866,
   "status": "passed"
 });
 formatter.uri("NewEra_389.feature");
@@ -542,7 +542,7 @@ formatter.match({
   "location": "CommonStepDefinitions.user_is_on_Testserver(String)"
 });
 formatter.result({
-  "duration": 9819289915,
+  "duration": 9934103952,
   "status": "passed"
 });
 formatter.scenario({
@@ -628,7 +628,7 @@ formatter.match({
   "location": "CommonStepDefinitions.that_I_am_a(String)"
 });
 formatter.result({
-  "duration": 406849,
+  "duration": 265622,
   "status": "passed"
 });
 formatter.match({
@@ -645,21 +645,21 @@ formatter.match({
   "location": "CommonStepDefinitions.login(String,String)"
 });
 formatter.result({
-  "duration": 3385861923,
+  "duration": 3443062233,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.my_account_screen_is_displayed()"
 });
 formatter.result({
-  "duration": 58993978,
+  "duration": 58855625,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.the_page_has_loaded()"
 });
 formatter.result({
-  "duration": 14234391,
+  "duration": 10004142,
   "status": "passed"
 });
 formatter.match({
@@ -672,7 +672,7 @@ formatter.match({
   "location": "StepDefinitions.i_am_shown_the_Your_Account_page(String)"
 });
 formatter.result({
-  "duration": 86625,
+  "duration": 84161,
   "status": "passed"
 });
 formatter.match({
@@ -685,7 +685,7 @@ formatter.match({
   "location": "StepDefinitions.tile_1_is(String)"
 });
 formatter.result({
-  "duration": 31107349,
+  "duration": 25009535,
   "status": "passed"
 });
 formatter.match({
@@ -698,7 +698,7 @@ formatter.match({
   "location": "StepDefinitions.tile_2_is(String)"
 });
 formatter.result({
-  "duration": 25486998,
+  "duration": 26209145,
   "status": "passed"
 });
 formatter.match({
@@ -711,7 +711,7 @@ formatter.match({
   "location": "StepDefinitions.tile_3_is(String)"
 });
 formatter.result({
-  "duration": 28913400,
+  "duration": 27077857,
   "status": "passed"
 });
 formatter.match({
@@ -724,7 +724,7 @@ formatter.match({
   "location": "StepDefinitions.tile_4_is(String)"
 });
 formatter.result({
-  "duration": 25700891,
+  "duration": 23422371,
   "status": "passed"
 });
 formatter.match({
@@ -737,7 +737,7 @@ formatter.match({
   "location": "StepDefinitions.tile_5_is(String)"
 });
 formatter.result({
-  "duration": 23331230,
+  "duration": 21132765,
   "status": "passed"
 });
 formatter.match({
@@ -750,7 +750,7 @@ formatter.match({
   "location": "StepDefinitions.tile_6_is(String)"
 });
 formatter.result({
-  "duration": 24079652,
+  "duration": 22576239,
   "status": "passed"
 });
 formatter.match({
@@ -763,14 +763,14 @@ formatter.match({
   "location": "StepDefinitions.tile_7_is(String)"
 });
 formatter.result({
-  "duration": 23130474,
+  "duration": 21343785,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.close_the_browser()"
 });
 formatter.result({
-  "duration": 549757759,
+  "duration": 511961412,
   "status": "passed"
 });
 formatter.background({
@@ -795,7 +795,7 @@ formatter.match({
   "location": "CommonStepDefinitions.user_is_on_Testserver(String)"
 });
 formatter.result({
-  "duration": 8841899408,
+  "duration": 9509285485,
   "status": "passed"
 });
 formatter.scenario({
@@ -881,7 +881,7 @@ formatter.match({
   "location": "CommonStepDefinitions.that_I_am_a(String)"
 });
 formatter.result({
-  "duration": 115363,
+  "duration": 92372,
   "status": "passed"
 });
 formatter.match({
@@ -898,21 +898,21 @@ formatter.match({
   "location": "CommonStepDefinitions.login(String,String)"
 });
 formatter.result({
-  "duration": 3461918121,
+  "duration": 4175500279,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.my_account_screen_is_displayed()"
 });
 formatter.result({
-  "duration": 48338712,
+  "duration": 65107802,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.the_page_has_loaded()"
 });
 formatter.result({
-  "duration": 11263281,
+  "duration": 12222313,
   "status": "passed"
 });
 formatter.match({
@@ -925,7 +925,7 @@ formatter.match({
   "location": "StepDefinitions.i_am_shown_the_Your_Account_page(String)"
 });
 formatter.result({
-  "duration": 89499,
+  "duration": 104689,
   "status": "passed"
 });
 formatter.match({
@@ -938,7 +938,7 @@ formatter.match({
   "location": "StepDefinitions.tile_1_is(String)"
 });
 formatter.result({
-  "duration": 25842119,
+  "duration": 28462623,
   "status": "passed"
 });
 formatter.match({
@@ -951,7 +951,7 @@ formatter.match({
   "location": "StepDefinitions.tile_2_is(String)"
 });
 formatter.result({
-  "duration": 26030558,
+  "duration": 27467052,
   "status": "passed"
 });
 formatter.match({
@@ -964,7 +964,7 @@ formatter.match({
   "location": "StepDefinitions.tile_3_is(String)"
 });
 formatter.result({
-  "duration": 28320575,
+  "duration": 35050627,
   "status": "passed"
 });
 formatter.match({
@@ -977,7 +977,7 @@ formatter.match({
   "location": "StepDefinitions.tile_4_is(String)"
 });
 formatter.result({
-  "duration": 24791536,
+  "duration": 24816169,
   "status": "passed"
 });
 formatter.match({
@@ -990,7 +990,7 @@ formatter.match({
   "location": "StepDefinitions.tile_5_is(String)"
 });
 formatter.result({
-  "duration": 22703918,
+  "duration": 22216603,
   "status": "passed"
 });
 formatter.match({
@@ -1003,7 +1003,7 @@ formatter.match({
   "location": "StepDefinitions.tile_6_is(String)"
 });
 formatter.result({
-  "duration": 24573127,
+  "duration": 22513425,
   "status": "passed"
 });
 formatter.match({
@@ -1016,14 +1016,14 @@ formatter.match({
   "location": "StepDefinitions.tile_7_is(String)"
 });
 formatter.result({
-  "duration": 35980099,
+  "duration": 26436998,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.close_the_browser()"
 });
 formatter.result({
-  "duration": 595948913,
+  "duration": 494542430,
   "status": "passed"
 });
 formatter.uri("NewEra_433.feature");
@@ -1066,7 +1066,7 @@ formatter.match({
   "location": "CommonStepDefinitions.user_is_on_Testserver(String)"
 });
 formatter.result({
-  "duration": 9881593700,
+  "duration": 9285368080,
   "status": "passed"
 });
 formatter.match({
@@ -1083,14 +1083,14 @@ formatter.match({
   "location": "CommonStepDefinitions.login(String,String)"
 });
 formatter.result({
-  "duration": 4008262203,
+  "duration": 3890592420,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.my_account_screen_is_displayed()"
 });
 formatter.result({
-  "duration": 65178006,
+  "duration": 65352898,
   "status": "passed"
 });
 formatter.scenario({
@@ -1125,14 +1125,14 @@ formatter.match({
   "location": "StepDefinitions.given_there_is_an_agreed_URL_structure()"
 });
 formatter.result({
-  "duration": 38591,
+  "duration": 33664,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.a_customer_visits_the_view_bill_page()"
 });
 formatter.result({
-  "duration": 847891711,
+  "duration": 23233510182,
   "status": "passed"
 });
 formatter.match({
@@ -1145,14 +1145,14 @@ formatter.match({
   "location": "StepDefinitions.the_URL_is_eonenergy_com_not_eonenergy_com_ViewBill(String)"
 });
 formatter.result({
-  "duration": 23247984740,
+  "duration": 92005020,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.close_the_browser()"
 });
 formatter.result({
-  "duration": 590125343,
+  "duration": 561895499,
   "status": "passed"
 });
 formatter.uri("NewEra_477.feature");
@@ -1200,7 +1200,7 @@ formatter.match({
   "location": "CommonStepDefinitions.user_is_on_Testserver(String)"
 });
 formatter.result({
-  "duration": 9871906087,
+  "duration": 10500811030,
   "status": "passed"
 });
 formatter.match({
@@ -1217,21 +1217,21 @@ formatter.match({
   "location": "CommonStepDefinitions.login(String,String)"
 });
 formatter.result({
-  "duration": 3610016623,
+  "duration": 3991886414,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.my_account_screen_is_displayed()"
 });
 formatter.result({
-  "duration": 58679501,
+  "duration": 64450932,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.a_customer_visits_the_view_bill_page()"
 });
 formatter.result({
-  "duration": 650645724,
+  "duration": 655583751,
   "status": "passed"
 });
 formatter.scenario({
@@ -1266,28 +1266,28 @@ formatter.match({
   "location": "StepDefinitions.as_a_fixed_direct_debit_customer()"
 });
 formatter.result({
-  "duration": 26685,
+  "duration": 76361,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.i_view_my_next_direct_debit_amount()"
 });
 formatter.result({
-  "duration": 22059005063,
+  "duration": 21955122176,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitions.show_me_the_amount_including_pounds_and_pence_ie_XX_XX()"
 });
 formatter.result({
-  "duration": 26542918,
+  "duration": 27849270,
   "status": "passed"
 });
 formatter.match({
   "location": "CommonStepDefinitions.close_the_browser()"
 });
 formatter.result({
-  "duration": 1070921931,
+  "duration": 1095457698,
   "status": "passed"
 });
 });
