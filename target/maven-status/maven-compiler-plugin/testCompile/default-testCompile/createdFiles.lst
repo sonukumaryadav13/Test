@@ -1,9 +1,0 @@
-Test\Test\glue\StepDefinitions.class
-Test\Test\glue\StepDefinitions$1.class
-Test\Test\glue\CommonStepDefinitions.class
-Test\Test\page\objects\LoginPage.class
-Test\Test\glue\AbstractStepDefinition.class
-Test\Test\page\objects\ViewBill.class
-Test\Test\page\objects\MyAccountPage.class
-Test\Test\runners\FeatureRunner.class
-Test\Test\page\objects\HomePage.class
