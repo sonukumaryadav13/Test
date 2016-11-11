@@ -52,7 +52,7 @@ public class CommonStepDefinitions extends AbstractStepDefinition {
 	@Given("^My account screen is displayed$")
 	public void my_account_screen_is_displayed() throws Exception{// throws Exception{
 		
-		WebDriverWait wait = new WebDriverWait(driver,20);
+		WebDriverWait wait = new WebDriverWait(driver,250);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.className("flexbox-self-align-middle")));
 		
 		
