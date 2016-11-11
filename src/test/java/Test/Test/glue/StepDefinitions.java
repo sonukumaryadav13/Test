@@ -61,7 +61,7 @@ public class StepDefinitions extends AbstractStepDefinition {
     	HomePage HomePage = new HomePage();
     	
     		
-    		WebDriverWait wait = new WebDriverWait(driver,50);
+    		WebDriverWait wait = new WebDriverWait(driver,150);
     		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-men")));
     		
     		
@@ -95,7 +95,7 @@ public class StepDefinitions extends AbstractStepDefinition {
     @Then("^the URL is eonenergy\\.com/\"(.*?)\"- not eonenergy\\.com/ViewBill$")
     public void the_URL_is_eonenergy_com_not_eonenergy_com_ViewBill(String bill){
     	
-    	WebDriverWait wait = new WebDriverWait(driver,50);
+    	WebDriverWait wait = new WebDriverWait(driver,150);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".c-card__callout")));
 		if(driver.findElement(By.cssSelector(".c-card__callout")).isDisplayed()){
 			
@@ -119,7 +119,7 @@ public class StepDefinitions extends AbstractStepDefinition {
 
     @When("^I view my next direct debit amount$")
     public void i_view_my_next_direct_debit_amount(){
-    	WebDriverWait wait = new WebDriverWait(driver,50);
+    	WebDriverWait wait = new WebDriverWait(driver,150);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.className("c-card__callout")));
     }
 
@@ -151,7 +151,7 @@ public class StepDefinitions extends AbstractStepDefinition {
     	    		            return ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
     	    		        }
     	    		    };
-    	    		    Wait<WebDriver> wait = new WebDriverWait(driver,30);
+    	    		    Wait<WebDriver> wait = new WebDriverWait(driver,1500);
     	    		    try
     	    		    {
     	    		        wait.until(expectation);
