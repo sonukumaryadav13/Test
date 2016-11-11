@@ -60,7 +60,34 @@ public class StepDefinitions extends AbstractStepDefinition {
     public void a_customer_visits_the_view_bill_page() throws Exception  {
     	HomePage HomePage = new HomePage();
     	
+    		
+    		WebDriverWait wait = new WebDriverWait(driver,30);
+    		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-men")));
+    		
+    		
+    	//	WebElement YourAccountText = driver.findElement(By.xpath("html/body/div[1]/div/div/form/input[4]"));
+    		
+    		if(HomePage.YourAccountMenu.isDisplayed()){
+    					
+    			System.out.println("Account menu is displayed");
+    			}else{
+    			System.out.println("Account menu is not displayed");
+    			}
+//    		highlight(YourAccountText);
+    	
+    		
     	HomePage.YourAccountMenu.click();
+    	wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("a[href*='/bill']")));
+		
+		
+    	//	WebElement YourAccountText = driver.findElement(By.xpath("html/body/div[1]/div/div/form/input[4]"));
+    		
+    		if(HomePage.MenuViewBill.isDisplayed()){
+    					
+    			System.out.println("View bill option is displayed");
+    			}else{
+    			System.out.println("View bill option is not displayed");
+    			}
     	HomePage.MenuViewBill.click();
    // 	highlight(HomePage.MenuViewBill);
     	}
@@ -68,6 +95,15 @@ public class StepDefinitions extends AbstractStepDefinition {
     @Then("^the URL is eonenergy\\.com/\"(.*?)\"- not eonenergy\\.com/ViewBill$")
     public void the_URL_is_eonenergy_com_not_eonenergy_com_ViewBill(String bill){
     	
+    	WebDriverWait wait = new WebDriverWait(driver,30);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".c-card__callout")));
+		if(driver.findElement(By.cssSelector(".c-card__callout")).isDisplayed()){
+			
+			System.out.println("View bill page is displayed");
+			}else{
+			System.out.println("View bill page is not displayed");
+			}
+        	
     	String URL = driver.getCurrentUrl();
     	String[] parts = URL.split("/");
     	URL = parts[3];
