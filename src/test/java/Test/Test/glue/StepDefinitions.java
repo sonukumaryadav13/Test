@@ -61,8 +61,8 @@ public class StepDefinitions extends AbstractStepDefinition {
     	HomePage HomePage = new HomePage();
     	
     		
-    		WebDriverWait wait = new WebDriverWait(driver,150);
-    		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-men")));
+    	//	WebDriverWait wait = new WebDriverWait(driver,150);
+    	//	wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("account-men")));
     		
     		
     
